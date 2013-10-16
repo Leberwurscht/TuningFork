@@ -1,0 +1,19 @@
+{
+  "version": "0.1",
+  "name": "TuningFork",
+  "description": "440 Hz tuning fork",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/images/icon-16.png",
+    "32": "/images/icon-32.png",
+    "48": "/images/icon-48.png",
+    "128": "/images/icon-128.png"
+  },
+  "developer": {
+    "name": "Leberwurscht",
+    "url": "http://www.hoegners.de"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "fork.appcache",
+  "default_locale": "en"
+}
