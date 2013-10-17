@@ -7,6 +7,9 @@
     "16": "/images/icon-16.png",
     "32": "/images/icon-32.png",
     "48": "/images/icon-48.png",
+    "60": "/images/icon-60.png",
+    "90": "/images/icon-90.png",
+    "120": "/images/icon-120.png",
     "128": "/images/icon-128.png"
   },
   "developer": {
@@ -14,6 +17,6 @@
     "url": "http://www.hoegners.de"
   },
   "installs_allowed_from": ["*"],
-  "appcache_path": "fork.appcache",
+  "appcache_path": "/fork.appcache",
   "default_locale": "en"
 }

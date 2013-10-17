@@ -1,4 +1,4 @@
-var request = navigator.mozApps.install("manifest.webapp");
+var request = navigator.mozApps.install("/manifest.webapp");
 request.onsuccess = function() {
   // great - display a message, or redirect to a launch page
   alert('installed');
